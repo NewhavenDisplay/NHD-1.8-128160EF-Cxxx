@@ -1,5 +1,5 @@
 # NHD-1.8-128160EF-Cxxx
-Program for writing to Newhaven Display's **NHD-1.8-128160EF-Cxxx** Series with ILI1963 controller. This code is written for the Arduino Uno. 
+Program for writing to Newhaven Display's **NHD-1.8-128160EF-Cxxx** Series with ILI1963 controller. This code is designed for our 1.8" TFTs with 8-bit parallel interface, and is written for the Arduino Uno. 
 
 Purchase a sample from our Product Pages linked below!
 
