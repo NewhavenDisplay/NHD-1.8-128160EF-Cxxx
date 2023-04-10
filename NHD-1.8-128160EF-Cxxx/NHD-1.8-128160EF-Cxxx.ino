@@ -3,6 +3,7 @@
 * 
 * Program for writing to Newhaven Display 1.8" TFTs with ILI9163 controller.
 * This code is written for the Arduino Uno, and uses 8-bit Parallel Interface
+* Replace Arduino Uno 5V regulator to a 3.3V.
 * This code is applicable for the following Newhaven Display models: 
 * 
 * NHD-1.8-128160EF-CTXI#
